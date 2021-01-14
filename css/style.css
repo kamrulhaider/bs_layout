@@ -1,0 +1,17 @@
+.header, .hero, .body, .bar, .footer{
+    background-color: rgb(137, 212, 190);
+    padding: 10px;
+    margin-bottom: 4px;
+}
+.box{
+    margin-bottom: 4px;
+    background-color: gray;
+    min-height: 70px;
+    border: 2px solid black;
+    color: rgb(0, 0, 0);
+    font-size: 50px;
+    text-align: center;
+}
+.tibro{
+    background-color: darkgoldenrod;
+}
